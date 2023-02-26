@@ -332,6 +332,10 @@ const applyStyle = (ButtonWrapper) => {
   );
 };
 
+/**
+ * This is the button.
+ */
+
 export function Button({
   isDisabled,
   isLoading,
